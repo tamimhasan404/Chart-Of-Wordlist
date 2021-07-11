@@ -48,6 +48,7 @@
 - https://github.com/1N3/IntruderPayloads
 - https://github.com/Karanxa/Bug-Bounty-Wordlists
 - https://github.com/danielmiessler/SecLists
+- https://gist.github.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7#file-content_discovery_nullenc0de-txt
 - https://github.com/j3ers3/PassList
 - https://github.com/fuzzdb-project/fuzzdb
 
