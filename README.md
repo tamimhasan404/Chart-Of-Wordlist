@@ -1,4 +1,4 @@
- - [ ] **Linux Pre Built Wordlist**
+ - [ ] **Linux Pre-Built Wordlist**
  
      - **dirb**
        
@@ -38,7 +38,7 @@
     /usr/share/wordlists/metasploit
     ```
   
- - [ ] **Some External Source**
+ - [ ] **Some External Sources**
 
 - https://wordlists.assetnote.io
 - https://github.com/tamimhasan404/Wordlist
@@ -68,9 +68,20 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GcysC5CB4Dw/0.jpg)](https://www.youtube.com/watch?v=GcysC5CB4Dw)
 
 
-- [ ] 📑 **Writeup Reference**
+- [ ] 📑 **Write-up Reference**
   
   - https://thexssrat.medium.com/directory-brute-forcing-beyond-the-basics-82f404e3886b
 
+
+
+
+ - [ ] 📑 **Write-ups Related with Content Discovery or Fuzzing**
+
+     - https://medium.com/ouspg/fuzz-testing-beginners-guide-da2c9179caa7
+     - https://tamimhasan404.medium.com/ffuf-tips-and-tricks-90fbe12e7c79
+     - https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7
+
+
+ - ### You are welcome to contribute in this repository.Feel free to contribute 🤗🙂
 
 
