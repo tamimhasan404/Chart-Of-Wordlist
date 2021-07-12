@@ -53,9 +53,10 @@
 - https://github.com/fuzzdb-project/fuzzdb
 
 
-### Want to create a custom wordlist? Here are some reference for you
+- ### Want to create a custom wordlist? Here are some reference for you
+ 
 
-- [ ] **Vedio Reference**
+- [ ] 🎦 **Vedio Reference**
 
 
 
@@ -65,6 +66,11 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GcysC5CB4Dw/0.jpg)](https://www.youtube.com/watch?v=GcysC5CB4Dw)
+
+
+- [ ] 📑 **Writeup Reference**
+  
+  - https://thexssrat.medium.com/directory-brute-forcing-beyond-the-basics-82f404e3886b
 
 
 
