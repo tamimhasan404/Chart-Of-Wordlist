@@ -1,5 +1,3 @@
-# Chart-Of-Wordlist
-
  - [ ] **Linux Pre Built Wordlist**
  
      - **dirb**
@@ -53,5 +51,20 @@
 - https://gist.github.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7#file-content_discovery_nullenc0de-txt
 - https://github.com/j3ers3/PassList
 - https://github.com/fuzzdb-project/fuzzdb
+
+
+### Want to create a custom wordlist? Here are some reference for you
+
+- [ ] **Vedio Reference**
+
+
+
+https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-8378-53d947eae9cc.mp4
+
+
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GcysC5CB4Dw/0.jpg)](https://www.youtube.com/watch?v=GcysC5CB4Dw)
+
 
 
