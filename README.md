@@ -72,6 +72,13 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
   
   - https://thexssrat.medium.com/directory-brute-forcing-beyond-the-basics-82f404e3886b
 
+- [ ] 📑 **Tools**
+
+  - https://github.com/digininja/CeWL
+  - https://github.com/m4ll0k/Bug-Bounty-Toolz/blob/master/getjswords.py
+  
+
+
 
 
 
