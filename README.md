@@ -43,6 +43,7 @@
 - https://wordlists.assetnote.io
 - https://github.com/tamimhasan404/Wordlist
 - https://github.com/Droidzzzio/EnumerationList
+- https://gist.githubusercontent.com/six2dez/a307a04a222fab5a57466c51e1569acf/raw
 - https://github.com/random-robbie/bruteforce-lists
 - https://github.com/ZephrFish/Wordlists
 - https://github.com/kaimi-io/web-fuzz-wordlists
