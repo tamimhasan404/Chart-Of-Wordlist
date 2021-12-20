@@ -100,6 +100,6 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
      - https://thexssrat.medium.com/what-the-fuzz-the-truth-behind-content-discovery-77cd0c0756e7
 
 
- - ### You are welcome to contribute in this repository.Feel free to contribute 🤗🙂
+ - ### Feel free to contribute 🤗🙂
 
 
