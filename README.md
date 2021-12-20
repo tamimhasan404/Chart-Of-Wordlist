@@ -1,3 +1,7 @@
+ ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) <a href="https://twitter.com/tamimhasan404">
+    <img src="https://img.shields.io/badge/author-@tamimhasan404-orange.svg?style=square&logo=twitter">
+  </a>
+ 
  - [ ] **Linux Pre-Built Wordlist**
  
      - **dirb**
