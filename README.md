@@ -88,7 +88,10 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
   - https://github.com/edoardottt/lit-bb-hack-tools/tree/main/eefjsf
   - https://github.com/tomnomnom/hacks/tree/master/tok
   
-
+  
+- [ ] 📑 **In Burp**
+  
+  - https://github.com/0xDexter0us/Scavenger
 
 
 
