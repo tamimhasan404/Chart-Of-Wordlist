@@ -50,6 +50,7 @@
 - https://github.com/six2dez/OneListForAll/blob/main/onelistforallmicro.txt
 - https://github.com/random-robbie/bruteforce-lists
 - https://github.com/ZephrFish/Wordlists
+- https://github.com/7hang/Fuzz_dic
 - https://github.com/kaimi-io/web-fuzz-wordlists
 - https://github.com/1N3/IntruderPayloads
 - https://github.com/Karanxa/Bug-Bounty-Wordlists
