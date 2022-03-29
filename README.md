@@ -43,7 +43,6 @@
     ```
   
  - [ ] **Some External Sources**
-
 - https://wordlists.assetnote.io
 - https://github.com/tamimhasan404/Wordlist
 - https://github.com/Droidzzzio/EnumerationList
@@ -81,7 +80,7 @@ https://user-images.githubusercontent.com/66991901/125241382-2cc32a80-e30d-11eb-
   - https://thexssrat.medium.com/directory-brute-forcing-beyond-the-basics-82f404e3886b
 
 - [ ] 📑 **Tools**
-
+  - https://github.com/tamimhasan404/Gau-Expose
   - https://github.com/digininja/CeWL
   - https://github.com/hakluke/haklistgen
   - https://github.com/Josue87/gotator
